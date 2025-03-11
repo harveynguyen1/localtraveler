@@ -1,2 +1,0 @@
-# localtraveler
-LocalTraveler Android Application
