@@ -17,7 +17,6 @@ LocalTraveler is an Android application designed to help users plan their travel
 
 ## Technologies Used
 
-*   **Kotlin:** Primary programming language for Android development.
 *   **Android Jetpack:**
     *   `AppCompat`: For backward compatibility.
     *   `RecyclerView`: For efficient display of lists of restaurants and attractions.
@@ -32,7 +31,6 @@ LocalTraveler is an Android application designed to help users plan their travel
 *   **JSON:** For parsing the responses from the Google Maps APIs.
 *   **SQLite:** for save the itineraries created.
 * **Geocoder**: for get postalCode from location.
-* **ProgressDialog**: for show loading when request in Api.
 
 ## Setup Instructions
 
